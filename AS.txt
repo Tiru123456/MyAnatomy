@@ -1,0 +1,22 @@
+SSAS 
+
+SQL Server
+SSDT -- SQL Server Data Tools or Visual Studio
+AdventureWorksDW
+
+
+
+SSIS -- 
+
+SSRS
+
+
+
+
+
+
+
+
+
+
+
